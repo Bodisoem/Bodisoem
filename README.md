@@ -10,9 +10,6 @@
 - 🥅 2021 Goals: Get an intern or got accepted in a PhD program.
 - ⚡ Fun fact: I love playing soccer, FPS games, and coding in Python
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/664YIcXsTLoUgHvIIBXYfo)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
